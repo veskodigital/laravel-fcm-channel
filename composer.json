@@ -54,6 +54,7 @@
     "config": {
         "sort-packages": true
     },
+    "minimum-stability": "stable",
     "extra": {
         "laravel": {
             "providers": [
